@@ -1308,7 +1308,7 @@
           "abbreviation" : "USF",
           "prestige" : "58",
           "hexColor" : "#006747",
-          "rival" : "UCF",
+          "rival" : "MEM",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2022",
@@ -1332,7 +1332,7 @@
           "abbreviation" : "MEM",
           "prestige" : "60",
           "hexColor" : "#003087",
-          "rival" : "CIN",
+          "rival" : "USF",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
