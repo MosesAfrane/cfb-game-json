@@ -95,7 +95,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "75",
+          "prestige" : "85",
           "hexColor" : "#FF8200",
           "rival" : "VAN",
           "headCoach" : {
@@ -979,6 +979,54 @@
           "state" : "Kansas"
         },
         {
+          "abbreviation" : "CIN",
+          "prestige" : "80",
+          "hexColor" : "#E00112",
+          "rival" : "UCF",
+          "headCoach" : {
+            "contractLength" : "7",
+            "startYear" : "2022",
+            "age" : "48",
+            "ratOff" : "85",
+            "cumulativePrestige" : "0",
+            "ratDef" : "96",
+            "homeState" : "Ohio",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "baselinePrestige" : "88",
+            "ratDiscipline" : "85",
+            "ratOvr" : "89",
+            "name" : "Luke Fickell",
+            "contractYear" : "5"
+          },
+          "name" : "Cincinnati",
+          "state" : "Ohio"
+        },
+        {
+          "abbreviation" : "UCF",
+          "prestige" : "73",
+          "hexColor" : "#B7A369",
+          "rival" : "CIN",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2022",
+            "age" : "56",
+            "ratOff" : "75",
+            "cumulativePrestige" : "2",
+            "ratDef" : "70",
+            "homeState" : "Florida",
+            "ratPot" : "90",
+            "ratTalent" : "79",
+            "baselinePrestige" : "70",
+            "ratDiscipline" : "77",
+            "ratOvr" : "75",
+            "name" : "Gus Malzahn",
+            "contractYear" : "0"
+          },
+          "name" : "Central Florida",
+          "state" : "Florida"
+        },
+        {
           "abbreviation" : "KU",
           "prestige" : "65",
           "hexColor" : "#0051BA",
@@ -1257,30 +1305,6 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "UCF",
-          "prestige" : "72",
-          "hexColor" : "#B7A369",
-          "rival" : "USF",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2022",
-            "age" : "56",
-            "ratOff" : "71",
-            "cumulativePrestige" : "2",
-            "ratDef" : "70",
-            "homeState" : "Florida",
-            "ratPot" : "90",
-            "ratTalent" : "75",
-            "baselinePrestige" : "70",
-            "ratDiscipline" : "77",
-            "ratOvr" : "75",
-            "name" : "Gus Malzahn",
-            "contractYear" : "0"
-          },
-          "name" : "Central Florida",
-          "state" : "Florida"
-        },
-        {
           "abbreviation" : "USF",
           "prestige" : "58",
           "hexColor" : "#006747",
@@ -1303,30 +1327,6 @@
           },
           "name" : "South Florida",
           "state" : "Florida"
-        },
-        {
-          "abbreviation" : "CIN",
-          "prestige" : "90",
-          "hexColor" : "#E00112",
-          "rival" : "MEM",
-          "headCoach" : {
-            "contractLength" : "7",
-            "startYear" : "2022",
-            "age" : "48",
-            "ratOff" : "85",
-            "cumulativePrestige" : "0",
-            "ratDef" : "96",
-            "homeState" : "Ohio",
-            "ratPot" : "90",
-            "ratTalent" : "90",
-            "baselinePrestige" : "88",
-            "ratDiscipline" : "85",
-            "ratOvr" : "89",
-            "name" : "Luke Fickell",
-            "contractYear" : "5"
-          },
-          "name" : "Cincinnati",
-          "state" : "Ohio"
         },
         {
           "abbreviation" : "MEM",
