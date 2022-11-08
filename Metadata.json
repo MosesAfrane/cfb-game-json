@@ -955,30 +955,6 @@
           "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "KSU",
-          "prestige" : "70",
-          "hexColor" : "#512888",
-          "rival" : "KU",
-          "headCoach" : {
-            "contractLength" : "5",
-            "startYear" : "2022",
-            "age" : "54",
-            "ratOff" : "79",
-            "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Iowa",
-            "ratPot" : "74",
-            "ratTalent" : "71",
-            "baselinePrestige" : "63",
-            "ratDiscipline" : "77",
-            "ratOvr" : "72",
-            "name" : "Chris Klieman",
-            "contractYear" : "0"
-          },
-          "name" : "Kansas State",
-          "state" : "Kansas"
-        },
-        {
           "abbreviation" : "CIN",
           "prestige" : "80",
           "hexColor" : "#E00112",
@@ -1025,30 +1001,6 @@
           },
           "name" : "Central Florida",
           "state" : "Florida"
-        },
-        {
-          "abbreviation" : "KU",
-          "prestige" : "65",
-          "hexColor" : "#0051BA",
-          "rival" : "KSU",
-          "headCoach" : {
-            "contractLength" : "7",
-            "startYear" : "2022",
-            "age" : "57",
-            "ratOff" : "82",
-            "cumulativePrestige" : "15",
-            "ratDef" : "79",
-            "homeState" : "Ohio",
-            "ratPot" : "69",
-            "ratTalent" : "71",
-            "baselinePrestige" : "54",
-            "ratDiscipline" : "70",
-            "ratOvr" : "76",
-            "name" : "Lance Leipold",
-            "contractYear" : "0"
-          },
-          "name" : "Kansas",
-          "state" : "Kansas"
         }
       ],
       "confFullName" : "Big 12",
